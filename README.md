@@ -1,4 +1,5 @@
 # Age Verification Model for Good Seed Supermarket
+![Supermarket](./supermarket.png)
 
 ## Introduction
 Good Seed Supermarket is committed to complying with legal requirements related to the sale of alcohol by ensuring customers are of legal age. This project involves building a machine learning model that leverages computer vision techniques to verify the age of customers purchasing alcohol, using images captured at checkout. The model is trained to predict a customer’s age from their image, helping the supermarket chain maintain compliance with age restrictions.
