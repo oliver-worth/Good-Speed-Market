@@ -40,8 +40,6 @@ The model was trained on a GPU platform to take advantage of faster processing c
 ## Model Evaluation
 The model's performance was evaluated on a validation dataset. The final model achieved a satisfactory level of accuracy but exhibited some signs of overfitting.
 
-![Age Prediction](./Screenshot2024-08-14.png)
-
 ## Methods to Improve Model Quality
 Several advanced techniques can be employed to further improve the model's performance:
 - **Advanced Data Augmentation**: Implementing more sophisticated data augmentation techniques to improve model generalization.
